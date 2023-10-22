@@ -20,6 +20,7 @@ Data Handling:
 
 MNIST and A-Z Handwritten Data are loaded and preprocessed. The datasets are combined, labels are adjusted, and the data is split into training and testing sets.
 MNIST DATASET Link : http://yann.lecun.com/exdb/mnist/index.html
+
 A-Z Handwritten DATASET Link : https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 Training and Evaluation:
